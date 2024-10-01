@@ -1,4 +1,4 @@
-# Open Ally ap Demo app
+# Open Ally Demo app
 
 The url `carexs://scan` is being used to open the Ally app via deeplink.
 
